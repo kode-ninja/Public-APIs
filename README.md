@@ -595,6 +595,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Cloudmersive NLP APIs**](https://cloudmersive.com/nlp-api) | Wide array of unified NLP APIs including language translation, rephrasing, sentiment analysis, hate speech detection, and more. | **N/A** |
 | [**DialogFlow**](https://dialogflow.com/) | Natural Language Interactions for Bots, Applications, Services, and Devices. | **N/A** |
 | [**Datum Box**](http://www.datumbox.com/machine-learning-api/) | Datumbox offers a powerful open-source Machine Learning Framework written in Java. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+| [**Ebby**](https://ebby.co/api) | Speech to text API to transcribe any media file to text. Support for more than 100 languages and dialects| 💸 |
 | [**Language Detection**](https://languagedetection.apifex.com/) | Detect language(s) from pieces of text. | **N/A** |
 | [**LUIS AI**](https://www.luis.ai/) | Language Understanding Intelligent Service offers a fast and effective way of adding language understanding to applications. | **N/A** |
 | [**MeaningCloud**](https://www.meaningcloud.com) | Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more. Several languages are supported. | **N/A** |
